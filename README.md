@@ -1,2 +1,3 @@
 # vue1ify
-just export vue@8 see https://github.com/vuejs/vueify
+just export vueify@8  
+see https://github.com/vuejs/vueify
