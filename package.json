@@ -1,6 +1,6 @@
 {
   "name": "vue1ify",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "exports vueify@8",
   "main": "index.js",
   "scripts": {
